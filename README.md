@@ -36,6 +36,18 @@ Additionally, thorough testing with Postman ensures the reliability and function
 
       Ensure that the URL patterns are properly configured to match the desired endpoints.
         src="https://github.com/user-attachments/assets/5e0fd503-23f6-42a6-b4a4-f37dd1099eb8">
+# Define Models for Login System
+
+Signup view
+![image](https://github.com/user-attachments/assets/e5b0ca2a-6bac-48ea-8fe0-9059a48c4652)
+
+Login View
+![image](https://github.com/user-attachments/assets/059b45e7-2780-4a3a-a2f9-5e39a822dc69)
+
+Successful Login
+![image](https://github.com/user-attachments/assets/7170c2fe-0e8c-4b6a-b234-767ae74280f2)
+
+
 
 
 
@@ -66,6 +78,17 @@ Query objects - ![image](https://github.com/user-attachments/assets/4a1a3f7c-2a7
 
 Get all user details view: Retrieves and displays details of all users. [POSTMAN screenshot below]
 ![image](https://github.com/user-attachments/assets/3c088bb7-3ae9-4232-a61b-5a4e1897325e)
+
+
+Retrives and displays details of a specific user based on their name.
+![image](https://github.com/user-attachments/assets/70857784-25cb-4d80-9c8a-66bc4ce09083)
+
+Update User details [updated the user Bob's, email address to bobby@gmail.com] Compare the email address with previous image
+![image](https://github.com/user-attachments/assets/82afc6e7-250a-425b-8411-3fb55dec4653)
+
+To delete a user using its email.[deleted the user Bob by his email address bobby@gmail.com
+![image](https://github.com/user-attachments/assets/62cec243-ac4f-46f0-a9bd-ec68adf36369)
+
 
 
 
